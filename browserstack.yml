@@ -1,0 +1,24 @@
+userName:
+accessKey:
+projectName: BrowserStack Samples 
+buildName: browserstack build 
+framework: playwright
+buildIdentifier: '#${BUILD_NUMBER}' # Supports strings along with either/both ${expression}
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: chrome
+    browserVersion: latest
+# Learn more about how BrowserStack Local works here -> https://www.browserstack.com/docs/automate/selenium/local-testing-introduction
+browserstackLocal: true # <boolean> (Default false)
+accessibility: true
+accessibilityOptions:
+    wcagVersion: wcag21aaa # Default: wcag21aa
+    includeIssueType: 
+        bestPractice: true # Default: false
+        needsReview: true # Default: true
+        experimental: true # Default: true
+debug: false # <boolean> # Set to true if you need screenshots for every selenium command ran
+networkLogs: false # <boolean> Set to true to enable HAR logs capturing
+consoleLogs: errors # <string> Remote browser's console debug levels to be printed (Default: errors)
+testObservability: true

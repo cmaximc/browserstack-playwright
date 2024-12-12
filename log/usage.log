@@ -1,0 +1,122 @@
+2024-12-10 10:55:26 - [32minfo[39m: Creating configuration file...
+2024-12-10 10:55:26 - [32minfo[39m: Adding new script(s) in package.json...
+2024-12-10 10:55:26 - [32minfo[39m: Setup completed
+2024-12-10 10:55:57 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 10:55:57 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 10:56:03 - [32minfo[39m: Local binary started successfully
+2024-12-10 10:56:10 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-12-10 10:57:44 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 10:57:44 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 10:57:49 - [32minfo[39m: Local binary started successfully
+2024-12-10 10:58:31 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 10:58:53 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 10:58:58 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 10:59:19 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 10:59:25 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 10:59:45 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 10:59:51 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:00:12 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:00:18 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:00:39 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:00:45 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:01:05 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:01:11 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:01:32 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:01:33 - [32minfo[39m: Visit https://observability.browserstack.com/builds/zx1enkxap84b6hk0n8hovsm7ck7azgdkil7fy2fd to view build report, insights, and many more debugging information all at one place!
+
+2024-12-10 11:01:34 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/218f26f410eee57a27eaa717b3f7bdbbea74e77d
+2024-12-10 11:01:36 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 11:01:40 - [32minfo[39m: Local binary stopped
+2024-12-10 11:04:44 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 11:04:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 11:04:49 - [32minfo[39m: Local binary started successfully
+2024-12-10 11:05:14 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:05:36 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:05:41 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:06:02 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:06:08 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:06:28 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:06:34 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:06:55 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:07:00 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:07:21 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:07:27 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:07:47 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:07:53 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:08:14 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:08:15 - [32minfo[39m: Visit https://observability.browserstack.com/builds/sloewemqueeflhdmsqi5pdfnm2yq8c29zvu8vrwt to view build report, insights, and many more debugging information all at one place!
+
+2024-12-10 11:08:16 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/45a144236e3e03f1aeac3a5c70a91b5114c511fd
+2024-12-10 11:08:18 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 11:08:22 - [32minfo[39m: Local binary stopped
+2024-12-10 11:19:58 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 11:19:58 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 11:20:03 - [32minfo[39m: Local binary started successfully
+2024-12-10 11:20:30 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 11:20:52 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 11:20:54 - [32minfo[39m: Visit https://observability.browserstack.com/builds/bfwqbxbvorj3jbos8icheqqk0jbtaif02flfms5r to view build report, insights, and many more debugging information all at one place!
+
+2024-12-10 11:20:55 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/fadc1504687330818ec809e72d0e25e90299bd08
+2024-12-10 11:20:56 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 11:21:00 - [32minfo[39m: Local binary stopped
+2024-12-10 14:02:33 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 14:02:33 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 14:02:35 - [31merror[39m: Error: LocalError: No output received
+    at BrowserStackSetup.setupBrowserstackLocal (C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:12470)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async BrowserStackSetup.initialize (C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:9736)
+    at async run (C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:7853)
+    at async captureError (C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1143)
+2024-12-10 14:02:35 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-12-10 14:10:21 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 14:10:21 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 14:10:26 - [32minfo[39m: Local binary started successfully
+2024-12-10 14:10:36 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 14:10:40 - [32minfo[39m: Local binary stopped
+2024-12-10 14:11:10 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 14:11:10 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 14:11:14 - [32minfo[39m: Local binary started successfully
+2024-12-10 14:11:24 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 14:11:27 - [32minfo[39m: Local binary stopped
+2024-12-10 14:13:22 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 14:13:22 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 14:13:26 - [32minfo[39m: Local binary started successfully
+2024-12-10 14:13:36 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 14:13:39 - [32minfo[39m: Local binary stopped
+2024-12-10 14:13:50 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 14:13:51 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 14:13:55 - [32minfo[39m: Local binary started successfully
+2024-12-10 14:14:05 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 14:14:08 - [32minfo[39m: Local binary stopped
+2024-12-10 14:21:48 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-10 14:21:48 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-10 14:21:53 - [32minfo[39m: Local binary started successfully
+2024-12-10 14:22:19 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-10 14:22:39 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-10 14:22:42 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ssrzrvznjxnhzgqb8mic8iddd5lgxbln6i7wosz3 to view build report, insights, and many more debugging information all at one place!
+
+2024-12-10 14:22:42 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8f5b10ab303a616c13926c8c8d43cda853396036
+2024-12-10 14:22:44 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-10 14:22:47 - [32minfo[39m: Local binary stopped
+2024-12-11 17:51:38 - [32minfo[39m: Reading configs from C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\browserstack.yml
+2024-12-11 17:51:38 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-12-11 17:51:43 - [32minfo[39m: Local binary started successfully
+2024-12-11 17:52:21 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-11 17:52:43 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-11 17:52:59 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-11 17:53:19 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-11 17:53:36 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-11 17:53:57 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-11 17:54:13 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-11 17:54:34 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-11 17:54:50 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-11 17:55:10 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-11 17:55:27 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-11 17:55:47 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-11 17:56:03 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-12-11 17:56:24 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-12-11 17:56:26 - [32minfo[39m: Visit https://observability.browserstack.com/builds/igfn8u9e7uv0b7n2kqlg2j5vqidynx8nqvrguhxz to view build report, insights, and many more debugging information all at one place!
+
+2024-12-11 17:56:26 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/862eb37b61097fea1ac3998f14934ac08d433213
+2024-12-11 17:56:29 - [32minfo[39m: Deleting C:\Users\claudiu_maxim\Desktop\playwright-browserstack-scratch\playwright-browserstack-sdk.config.ts
+2024-12-11 17:56:33 - [32minfo[39m: Local binary stopped
